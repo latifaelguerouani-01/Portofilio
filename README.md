@@ -3,7 +3,7 @@ portfolio website built with React
 
 
 📌 Overview
-This is my personal portfolio website built using React.
+- This is my personal portfolio website built using React.
 It showcases my projects, technical skills, and contact information in a modern and interactive way.
 
 🚀 Features
@@ -16,10 +16,10 @@ It showcases my projects, technical skills, and contact information in a modern 
 - Projects showcase section
 
 🛠️ Technologies Used
-React.js
-CSS3
-JavaScript (ES6)
-Framer Motion
+- React.js
+- CSS3
+- JavaScript (ES6)
+- Framer Motion
 
 
 ✨ Author
