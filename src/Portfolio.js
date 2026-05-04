@@ -6,8 +6,6 @@ import img1 from "./assets/profile.jpg";
 import img2 from "./assets/profile2.jpg";
 import img3 from "./assets/profile3.jpg";
 
-import cv from "./assets/cv.pdf";
-
 export default function Portfolio() {
 
   const [lang, setLang] = useState("en");
@@ -60,9 +58,10 @@ export default function Portfolio() {
             <p>{content[lang].about}</p>
 
             <div className="hero-buttons">
-                  <a href={cv} download className="btn">
-                    Download CV
+                  <a href="/cv.pdf" download="Latifa_CV.pdf" className="btn">
+                        Download CV
                   </a>
+
 
 
 
